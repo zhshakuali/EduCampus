@@ -22,6 +22,17 @@
 		D5B4A1202BE2B9850029BC95 /* ProfileScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B4A11F2BE2B9850029BC95 /* ProfileScreen.swift */; };
 		D5B4A1232BE2BAB20029BC95 /* SegmentedPicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B4A1222BE2BAB20029BC95 /* SegmentedPicker.swift */; };
 		D5B4A1252BE2BBA60029BC95 /* AboutMeScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5B4A1242BE2BBA60029BC95 /* AboutMeScreen.swift */; };
+		D5D870EA2BF0BA7B00299DF3 /* QuizScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D870E92BF0BA7B00299DF3 /* QuizScreen.swift */; };
+		D5D870EC2BF0BC7E00299DF3 /* ButtonStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D870EB2BF0BC7E00299DF3 /* ButtonStack.swift */; };
+		D5D870EE2BF0BE8800299DF3 /* Colors.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D870ED2BF0BE8800299DF3 /* Colors.swift */; };
+		D5D870F02BF0BFEF00299DF3 /* Environments.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D870EF2BF0BFEF00299DF3 /* Environments.swift */; };
+		D5D870F22BF0C16F00299DF3 /* Fonts.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D870F12BF0C16F00299DF3 /* Fonts.swift */; };
+		D5D870F42BF0C36E00299DF3 /* LoadableModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D870F32BF0C36E00299DF3 /* LoadableModifier.swift */; };
+		D5D870F62BF0C4CC00299DF3 /* View+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D870F52BF0C4CC00299DF3 /* View+Extensions.swift */; };
+		D5D870F82BF0C6E900299DF3 /* QuizItemView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D870F72BF0C6E900299DF3 /* QuizItemView.swift */; };
+		D5D870FA2BF0C8BE00299DF3 /* SelectableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D870F92BF0C8BE00299DF3 /* SelectableView.swift */; };
+		D5D870FC2BF0CBDF00299DF3 /* TouchModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D870FB2BF0CBDF00299DF3 /* TouchModifier.swift */; };
+		D5D870FE2BF0CFA200299DF3 /* QuizProcessScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5D870FD2BF0CFA200299DF3 /* QuizProcessScreen.swift */; };
 		D5E2E0C02BE3767400E0BDF3 /* LoginScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E2E0BF2BE3767400E0BDF3 /* LoginScreen.swift */; };
 		D5E2E0C32BE376E500E0BDF3 /* Spacers.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E2E0C22BE376E500E0BDF3 /* Spacers.swift */; };
 		D5E2E0C52BE3770000E0BDF3 /* TextFieldComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = D5E2E0C42BE3770000E0BDF3 /* TextFieldComponent.swift */; };
@@ -47,6 +58,17 @@
 		D5B4A11F2BE2B9850029BC95 /* ProfileScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileScreen.swift; sourceTree = "<group>"; };
 		D5B4A1222BE2BAB20029BC95 /* SegmentedPicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedPicker.swift; sourceTree = "<group>"; };
 		D5B4A1242BE2BBA60029BC95 /* AboutMeScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutMeScreen.swift; sourceTree = "<group>"; };
+		D5D870E92BF0BA7B00299DF3 /* QuizScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizScreen.swift; sourceTree = "<group>"; };
+		D5D870EB2BF0BC7E00299DF3 /* ButtonStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonStack.swift; sourceTree = "<group>"; };
+		D5D870ED2BF0BE8800299DF3 /* Colors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors.swift; sourceTree = "<group>"; };
+		D5D870EF2BF0BFEF00299DF3 /* Environments.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Environments.swift; sourceTree = "<group>"; };
+		D5D870F12BF0C16F00299DF3 /* Fonts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fonts.swift; sourceTree = "<group>"; };
+		D5D870F32BF0C36E00299DF3 /* LoadableModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadableModifier.swift; sourceTree = "<group>"; };
+		D5D870F52BF0C4CC00299DF3 /* View+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "View+Extensions.swift"; sourceTree = "<group>"; };
+		D5D870F72BF0C6E900299DF3 /* QuizItemView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizItemView.swift; sourceTree = "<group>"; };
+		D5D870F92BF0C8BE00299DF3 /* SelectableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectableView.swift; sourceTree = "<group>"; };
+		D5D870FB2BF0CBDF00299DF3 /* TouchModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouchModifier.swift; sourceTree = "<group>"; };
+		D5D870FD2BF0CFA200299DF3 /* QuizProcessScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizProcessScreen.swift; sourceTree = "<group>"; };
 		D5E2E0BF2BE3767400E0BDF3 /* LoginScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreen.swift; sourceTree = "<group>"; };
 		D5E2E0C22BE376E500E0BDF3 /* Spacers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Spacers.swift; sourceTree = "<group>"; };
 		D5E2E0C42BE3770000E0BDF3 /* TextFieldComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldComponent.swift; sourceTree = "<group>"; };
@@ -113,6 +135,8 @@
 		D5B4A1032BE2B7950029BC95 /* PetProject */ = {
 			isa = PBXGroup;
 			children = (
+				D5D871002BF0E33A00299DF3 /* DesignSystem */,
+				D5D870E82BF0BA6E00299DF3 /* Quiz */,
 				D5606DE62BE39E210035D285 /* Main */,
 				D5E2E0C82BE37D3E00E0BDF3 /* Network */,
 				D5E2E0BE2BE3765C00E0BDF3 /* Auth */,
@@ -164,12 +188,109 @@
 		D5B4A1212BE2BA9D0029BC95 /* Components */ = {
 			isa = PBXGroup;
 			children = (
-				D5B4A1222BE2BAB20029BC95 /* SegmentedPicker.swift */,
-				D5E2E0C22BE376E500E0BDF3 /* Spacers.swift */,
-				D5E2E0C42BE3770000E0BDF3 /* TextFieldComponent.swift */,
-				D5E2E0C62BE378C700E0BDF3 /* ButtonComponent.swift */,
+				D5D870EF2BF0BFEF00299DF3 /* Environments.swift */,
+				D5D870F52BF0C4CC00299DF3 /* View+Extensions.swift */,
 			);
 			path = Components;
+			sourceTree = "<group>";
+		};
+		D5D870E82BF0BA6E00299DF3 /* Quiz */ = {
+			isa = PBXGroup;
+			children = (
+				D5D870E92BF0BA7B00299DF3 /* QuizScreen.swift */,
+				D5D870F72BF0C6E900299DF3 /* QuizItemView.swift */,
+				D5D870FD2BF0CFA200299DF3 /* QuizProcessScreen.swift */,
+			);
+			path = Quiz;
+			sourceTree = "<group>";
+		};
+		D5D870FF2BF0E32400299DF3 /* Colors */ = {
+			isa = PBXGroup;
+			children = (
+				D5D870ED2BF0BE8800299DF3 /* Colors.swift */,
+			);
+			path = Colors;
+			sourceTree = "<group>";
+		};
+		D5D871002BF0E33A00299DF3 /* DesignSystem */ = {
+			isa = PBXGroup;
+			children = (
+				D5D871082BF0E37F00299DF3 /* TextField */,
+				D5D871072BF0E37900299DF3 /* Fonts */,
+				D5D871062BF0E37300299DF3 /* Loader */,
+				D5D871052BF0E36D00299DF3 /* Touch */,
+				D5D871042BF0E36200299DF3 /* SelectableView */,
+				D5D871032BF0E35800299DF3 /* Button */,
+				D5D871022BF0E34800299DF3 /* SegmentedPicker */,
+				D5D871012BF0E34300299DF3 /* Spacer */,
+				D5D870FF2BF0E32400299DF3 /* Colors */,
+			);
+			path = DesignSystem;
+			sourceTree = "<group>";
+		};
+		D5D871012BF0E34300299DF3 /* Spacer */ = {
+			isa = PBXGroup;
+			children = (
+				D5E2E0C22BE376E500E0BDF3 /* Spacers.swift */,
+			);
+			path = Spacer;
+			sourceTree = "<group>";
+		};
+		D5D871022BF0E34800299DF3 /* SegmentedPicker */ = {
+			isa = PBXGroup;
+			children = (
+				D5B4A1222BE2BAB20029BC95 /* SegmentedPicker.swift */,
+			);
+			path = SegmentedPicker;
+			sourceTree = "<group>";
+		};
+		D5D871032BF0E35800299DF3 /* Button */ = {
+			isa = PBXGroup;
+			children = (
+				D5E2E0C62BE378C700E0BDF3 /* ButtonComponent.swift */,
+				D5D870EB2BF0BC7E00299DF3 /* ButtonStack.swift */,
+			);
+			path = Button;
+			sourceTree = "<group>";
+		};
+		D5D871042BF0E36200299DF3 /* SelectableView */ = {
+			isa = PBXGroup;
+			children = (
+				D5D870F92BF0C8BE00299DF3 /* SelectableView.swift */,
+			);
+			path = SelectableView;
+			sourceTree = "<group>";
+		};
+		D5D871052BF0E36D00299DF3 /* Touch */ = {
+			isa = PBXGroup;
+			children = (
+				D5D870FB2BF0CBDF00299DF3 /* TouchModifier.swift */,
+			);
+			path = Touch;
+			sourceTree = "<group>";
+		};
+		D5D871062BF0E37300299DF3 /* Loader */ = {
+			isa = PBXGroup;
+			children = (
+				D5D870F32BF0C36E00299DF3 /* LoadableModifier.swift */,
+			);
+			path = Loader;
+			sourceTree = "<group>";
+		};
+		D5D871072BF0E37900299DF3 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				D5D870F12BF0C16F00299DF3 /* Fonts.swift */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		D5D871082BF0E37F00299DF3 /* TextField */ = {
+			isa = PBXGroup;
+			children = (
+				D5E2E0C42BE3770000E0BDF3 /* TextFieldComponent.swift */,
+			);
+			path = TextField;
 			sourceTree = "<group>";
 		};
 		D5E2E0BE2BE3765C00E0BDF3 /* Auth */ = {
@@ -261,24 +382,35 @@
 			buildActionMask = 2147483647;
 			files = (
 				9F8134CE2BE3D0B900C5C31A /* AboutMeModel.swift in Sources */,
+				D5D870EE2BF0BE8800299DF3 /* Colors.swift in Sources */,
 				9F8134D72BE3FD3200C5C31A /* CourseModel.swift in Sources */,
 				D5E2E0C52BE3770000E0BDF3 /* TextFieldComponent.swift in Sources */,
 				D5E2E0CC2BE3801000E0BDF3 /* LoginModel.swift in Sources */,
+				D5D870EA2BF0BA7B00299DF3 /* QuizScreen.swift in Sources */,
 				D5B4A1192BE2B7F80029BC95 /* CoursesScreen.swift in Sources */,
 				D5E2E0C02BE3767400E0BDF3 /* LoginScreen.swift in Sources */,
+				D5D870FC2BF0CBDF00299DF3 /* TouchModifier.swift in Sources */,
 				D5B4A1162BE2B7C90029BC95 /* ScheduleScreen.swift in Sources */,
+				D5D870EC2BF0BC7E00299DF3 /* ButtonStack.swift in Sources */,
+				D5D870FA2BF0C8BE00299DF3 /* SelectableView.swift in Sources */,
+				D5D870F82BF0C6E900299DF3 /* QuizItemView.swift in Sources */,
 				D5B4A1232BE2BAB20029BC95 /* SegmentedPicker.swift in Sources */,
 				D5606DE82BE39E300035D285 /* ApplicationSwitcherView.swift in Sources */,
 				9F8134D52BE3F54000C5C31A /* DatesKit.swift in Sources */,
 				D5B4A1252BE2BBA60029BC95 /* AboutMeScreen.swift in Sources */,
 				D5E2E0C72BE378C700E0BDF3 /* ButtonComponent.swift in Sources */,
 				D5B4A11C2BE2B81B0029BC95 /* HomeScreen.swift in Sources */,
+				D5D870F22BF0C16F00299DF3 /* Fonts.swift in Sources */,
+				D5D870FE2BF0CFA200299DF3 /* QuizProcessScreen.swift in Sources */,
 				D5B4A1052BE2B7950029BC95 /* PetProjectApp.swift in Sources */,
 				9F8134D32BE3F50F00C5C31A /* ScheduleModel.swift in Sources */,
 				D5B4A1202BE2B9850029BC95 /* ProfileScreen.swift in Sources */,
+				D5D870F42BF0C36E00299DF3 /* LoadableModifier.swift in Sources */,
 				D5E2E0CA2BE37D4A00E0BDF3 /* NetworkService.swift in Sources */,
+				D5D870F62BF0C4CC00299DF3 /* View+Extensions.swift in Sources */,
 				D5E2E0C32BE376E500E0BDF3 /* Spacers.swift in Sources */,
 				9F8134D12BE3D12200C5C31A /* ProfileModel.swift in Sources */,
+				D5D870F02BF0BFEF00299DF3 /* Environments.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,7 +551,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -448,7 +580,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 16.1;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
