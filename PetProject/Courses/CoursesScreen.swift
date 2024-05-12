@@ -19,7 +19,6 @@ struct CoursesView: View {
                 }
                 .padding(.horizontal, 20)
                 
-                
                 List(course.modules) { item in
                     CourseItemView(item: item)
                 }
